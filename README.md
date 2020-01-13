@@ -10,7 +10,7 @@ Main Dataframe's Columns:
 
 - HomeTeam: A *string* representing the name of the Home Team in the match in question.
 
-- AwayTeam: A *string* representing the name of the Home Team in the match in question.
+- AwayTeam: A *string* representing the name of the Away Team in the match in question.
 
 - FTHG: Full-Time Home Goals (INT); Total goals scored by the home team 
 
